@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rumah
+* source:	https://sketchfab.com/3d-models/rumah-48675f7162ca4984b102d98f036b5c9b
+* author:	mayla.tasya.n (https://sketchfab.com/mayla.tasya.n)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rumah" (https://sketchfab.com/3d-models/rumah-48675f7162ca4984b102d98f036b5c9b) by mayla.tasya.n (https://sketchfab.com/mayla.tasya.n) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
